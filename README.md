@@ -1,4 +1,4 @@
-### Hi there, I'm Simon Olden 👋 
+### Hi there, I'm Simon Olden :turtle: 
 
 I am a <em>Web Developer</em> and <em>JavaScript Lover</em> ❤️
   
