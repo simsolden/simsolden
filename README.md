@@ -1,6 +1,20 @@
-### Hi there 👋
+### Hi there, I'm Simon Olden 👋 
 
-<!--
+<em>I am a Web developer and JavaScript Lover ❤️<em>
+  
+Here are some of the technologies I love and want to work with at the moment :
+- React ⚡
+- React Native :star:
+- TypeScript :fire: 
+- Express :top:
+- NestJS :sunny:
+ 
+<img src='https://github-readme-stats.vercel.app/api?username=simsolden&hide=prs,stars&show_icons=true&theme=algolia' />
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=simsolden&theme=algolia&hide=html,css&layout=compact' />
+  
+📫 How to reach me: https://www.linkedin.com/in/simon-oldenhove-7b3a8b97/
+
+  <!--
 **simsolden/simsolden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
