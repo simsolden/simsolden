@@ -11,7 +11,7 @@ Here are some of the technologies I love and want to work with at the moment :
  
 <img src='https://github-readme-stats.vercel.app/api?username=simsolden&hide=prs,stars&show_icons=true&theme=algolia' />
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=simsolden&theme=algolia&hide=html,css&layout=compact' />
-  
+  </br>
   
 📫 How to reach me: https://www.linkedin.com/in/simon-oldenhove-7b3a8b97/
 
