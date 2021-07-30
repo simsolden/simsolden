@@ -6,7 +6,7 @@ Here are some of the technologies I love and want to work with at the moment :
 - React ⚡
 - React Native :star:
 - TypeScript :fire: 
-- Express :top:
+- Express :muscle:
 - NestJS :sunny:
 - Prisma :sparkles:
 - GraphQL :rocket: :rocket:
