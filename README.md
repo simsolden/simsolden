@@ -1,6 +1,6 @@
 ### Hi there, I'm Simon Olden 👋 
 
-<em>I am a Web developer and JavaScript Lover ❤️</em>
+I am a <em>Web Developer</em> and <em>JavaScript Lover</em> ❤️
   
 Here are some of the technologies I love and want to work with at the moment :
 - React ⚡
@@ -8,6 +8,15 @@ Here are some of the technologies I love and want to work with at the moment :
 - TypeScript :fire: 
 - Express :top:
 - NestJS :sunny:
+- Prisma :sparkles:
+- GraphQL :rocket: :rocket:
+
+But I also have some room in my heart for others which I am already familiar with :
+- PHP
+- Laravel
+- Symfony
+- PostgreSQL
+- MongoDB
  
 <img src='https://github-readme-stats.vercel.app/api?username=simsolden&hide=prs,stars&show_icons=true&theme=algolia' />
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=simsolden&theme=algolia&hide=html,css&layout=compact' />
